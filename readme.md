@@ -3,7 +3,9 @@
 
  AdAssassin Extension is a handy tool that helps you eliminate annoying ads while enjoying your favorite videos on YouTube. With just a few simple steps, you can have a smooth, ad-free experience on the platform. Let's get started!
 
+## Video tutorial
 
+Yes dumbs, got you covered- https://www.youtube.com/watch?v=5-G6Jym4qsk
 
 ## Installation
 
