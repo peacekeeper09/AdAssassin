@@ -5,7 +5,7 @@
 
 ## Video tutorial
 
-Yes dumbs, got you covered- 
+Yes dumbs, got you covered- https://youtu.be/NUkl8V47egI
 
 ## Installation
 
